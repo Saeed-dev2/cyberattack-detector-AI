@@ -29,7 +29,6 @@ cyberattack-detector-AI/
 ├── static/               # CSS or image assets (optional)
 └── README.md             # This file
 ```
-
 ---
 
 ## ⚙️ Installation & Setup
