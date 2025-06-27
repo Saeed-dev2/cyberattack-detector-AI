@@ -3,7 +3,6 @@
 A FastAPI-based AI web application for real-time **cyberattack detection** using a trained machine learning model. It provides an interactive web interface for users to input network traffic features and receive live predictions on whether the traffic is **Benign** or an **Attack**.
 
 ---
-
 ## 🚀 Features
 
 - ✅ Built with **FastAPI** for high-speed performance
