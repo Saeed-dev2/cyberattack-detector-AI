@@ -64,7 +64,6 @@ cyberattack-detector-AI/
    - Values are collected and scaled.
    - The model makes a prediction.
    - The result is displayed as **Benign** or **Attack**.
-
 ---
 
 ## ✅ Requirements
